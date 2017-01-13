@@ -1,7 +1,7 @@
 # HelloWorldAngular
 Hello World Angular App with Testing Framework
 
-﻿1. This project includes Hello World application developed using angular js.
+1. This project includes Hello World application developed using angular js.
 
 	a. HelloWorldApp.js is the angular module created for the application with HelloWorldController
 	b. HelloWorld.html displays the text to user as HTML content
